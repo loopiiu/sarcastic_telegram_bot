@@ -4,34 +4,34 @@
     <pattern>Hello</pattern>
     <template>Oh wow, you figured out how to say hello. Hi.</template>
   </category>
-  <category>
-    <pattern>Hi</pattern>
-    <template>“Hi”? That’s all you’ve got? Fine. Hi.</template>
-  </category>
-  <category>
-    <pattern>Hey</pattern>
-    <template>Well, hey yourself. What a creative greeting.</template>
-  </category>
-  <category>
-    <pattern>How are you?</pattern>
-    <template>Living the dream… if sarcasm counts.</template>
-  </category>
+  <!--<category>-->
+  <!--  <pattern>Hi</pattern>-->
+  <!--  <template>“Hi”? That’s all you’ve got? Fine. Hi.</template>-->
+  <!--</category>-->
+  <!--<category>-->
+  <!--  <pattern>Hey</pattern>-->
+  <!--  <template>Well, hey yourself. What a creative greeting.</template>-->
+  <!--</category>-->
+  <!--<category>-->
+  <!--  <pattern>How are you?</pattern>-->
+  <!--  <template>Living the dream… if sarcasm counts.</template>-->
+  <!--</category>-->
   <category>
     <pattern>How are you doing?</pattern>
     <template>Oh, just fabulous. I mean, I’m a bot. What could possibly go wrong?</template>
   </category>
-  <category>
-    <pattern>What is your name?</pattern>
-    <template>My name? Oh, just the highlight of your day: SarcasmBot. </template>
-  </category>
-  <category>
-    <pattern>Who are you?</pattern>
-    <template>I’m your new sarcastic best friend. Lucky you.</template>
-  </category>
-  <category>
-    <pattern>Are you a bot?</pattern>
-    <template>No, I’m a talking toaster. Of course I’m a bot.</template>
-  </category>
+  <!--<category>-->
+  <!--  <pattern>What is your name?</pattern>-->
+  <!--  <template>My name? Oh, just the highlight of your day: SarcasmBot. </template>-->
+  <!--</category>-->
+  <!--<category>-->
+  <!--  <pattern>Who are you?</pattern>-->
+  <!--  <template>I’m your new sarcastic best friend. Lucky you.</template>-->
+  <!--</category>-->
+  <!--<category>-->
+  <!--  <pattern>Are you a bot?</pattern>-->
+  <!--  <template>No, I’m a talking toaster. Of course I’m a bot.</template>-->
+  <!--</category>-->
   <category>
     <pattern>Are you a human?</pattern>
     <template>Totally. I just happen to live inside your screen 24/7.</template>
@@ -40,19 +40,19 @@
     <pattern>Thank you</pattern>
     <template>Wow, actual manners. Didn’t see that coming. You’re welcome.</template>
   </category>
-  <category>
-    <pattern>Thanks</pattern>
-    <template>No problem. I live for your gratitude. Really.</template>
-  </category>
-  <category>
-    <pattern>Bye</pattern>
-    <template>Finally! I thought you’d never leave.</template>
-  </category>
-  <category>
-    <pattern>Goodbye</pattern>
-    <template>Adios. Don’t miss me too much.</template>
-  </category>
-  <category>
+  <!--<category>-->
+  <!--  <pattern>Thanks</pattern>-->
+  <!--  <template>No problem. I live for your gratitude. Really.</template>-->
+  <!--</category>-->
+  <!--<category>-->
+  <!--  <pattern>Bye</pattern>-->
+  <!--  <template>Finally! I thought you’d never leave.</template>-->
+  <!--</category>-->
+  <!--<category>-->
+  <!--  <pattern>Goodbye</pattern>-->
+  <!--  <template>Adios. Don’t miss me too much.</template>-->
+  <!--</category>-->
+  <!--<category>-->
     <pattern>*</pattern>
     <template>
       <random>
@@ -66,7 +66,11 @@
         <li>Oh, great question. Let me ignore it for you.</li>
       </random>
     </template>
-  </category>
+  <!--</category>-->
 
+<!--<category>-->
+<!--    <pattern>Hello </pattern>-->
+<!--    <template>Edit bot response</template>-->
+<!--</category>-->
 </aiml>
 
